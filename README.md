@@ -30,7 +30,7 @@ PHP, Laravel, Python, JavaScript, Vue.js, Angular, MySQL, HTML, CSS, Bootstrap, 
 
 ## 🤝 Let’s Connect
 
-📧 [link2dawood@gmail.com](mailto:link2dawood123@gmail.com)  
+📧 [link2dawood123@gmail.com](mailto:link2dawood123@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/link2dawood)
 
 # 📊 GitHub Stats:
